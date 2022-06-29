@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-b^pxe)(3xyyjdud&s2^b9b!8j-abnce*cmjbgn^^#1bs=yz_on
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://git.heroku.com/simon-fts-todo-app.git]
 
 
 # Application definition
